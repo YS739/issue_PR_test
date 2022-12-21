@@ -1,1 +1,3 @@
-test
+const test = () => {
+  return;
+};
